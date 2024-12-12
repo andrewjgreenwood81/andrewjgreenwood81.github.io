@@ -55,4 +55,4 @@ Programming games designed to teach kids about civics was a fantastic learning e
 
 ![Reach For The Sun](/assets/images/rfts.png){:width="75%"}
 # Reach For The Sun
-One of my first professionally paid programming projects involved engineering significant post-launch improvements. This engaging game teaches players about photosynthesis and plant biology. Players can select different plants and help them grow by applying in-game knowledge about balancing the growth of specific plant parts, managing resources, and combating pests. [More Details](https://www.filamentgames.com/project/reach-for-the-sun/)
+One of my first professionally paid programming projects involved engineering significant post-launch improvements to this game. This engaging game teaches players about photosynthesis and plant biology. Players can select different plants and help them grow by applying in-game knowledge about balancing the growth of specific plant parts, managing resources, and combating pests. [More Details](https://www.filamentgames.com/project/reach-for-the-sun/)
