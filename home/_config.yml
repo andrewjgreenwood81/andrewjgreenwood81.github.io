@@ -8,7 +8,7 @@ github_username:  andrewjgreenwood81
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: minima
 plugins:
   - jekyll-feed
   - jekyll-plugins
