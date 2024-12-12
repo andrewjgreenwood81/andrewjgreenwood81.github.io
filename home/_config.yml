@@ -1,14 +1,23 @@
 # Site settings
 title: home
-email: andrewjgreenwood81@gmail.com
 description: My professional portfolio
-baseurl: "/home" # the subpath of your site, e.g. /blog
+permalink: /:title/ # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  andrewjgreenwood81
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md"}
+  - {file: "portfolio.md"}
+  - {file: "resume.md"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:andrewjgreenwood81@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/andrewjgreenwood81"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/agreenwoodgamedev"}
 
 # Build settings
 markdown: kramdown
 remote_theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-plugins
