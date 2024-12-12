@@ -6,7 +6,7 @@ permalink: /resumé/
 
 ## Andrew Greenwood
 
-Andrew Greenwood is smart, talented, and creative with expertise in software engineering, business, and game development. He excels in lead, solo, and team settings engineering critically acclaimed titles for all major devices using wide ranging toolsets and languages. He is ready to help lift whatever needs lifting and happy to fill whatever role is most needed.
+Andrew Greenwood is smart, talented, and creative with expertise in software engineering, business, and game development. He excels in lead, solo, and team settings, engineering critically acclaimed titles for all major devices using a wide range of toolsets and languages. Andrew is always ready to tackle new challenges and contribute wherever his skills can add value to the project.
 
 # Experience
 
@@ -36,6 +36,16 @@ Madison, Wisconsin
 
 **Owner/Studio Programmer**  
 *Nebuloid*  
+Jan 2011 - Sep 2012 · 1 year 9 months  
+Madison, Wisconsin  
+- Develop Virtual Reality apps via Unity
+- Develop iOS and Android apps via Unity
+- Admin distribution and provisioning for apps
+- Create music and sounds for apps
+- Plan and execute releases and events for Nebuloid
+
+**Produce Department Lead**  
+*Willy Street Coop*  
 Jan 2011 - Sep 2012 · 1 year 9 months  
 Madison, Wisconsin  
 - Develop Virtual Reality apps via Unity
