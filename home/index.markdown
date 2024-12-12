@@ -1,6 +1,5 @@
 ---
-layout: page
-title: about
+layout: home
 ---
 
 Welcome to my portfolio site. Here, you'll find a showcase of my work as a user interface and game programmer, including my most notable project: Call of Duty: Warzone.
