@@ -1,7 +1,7 @@
 ---
 layout: page
-title: resumé
-permalink: /resumé/
+title: resume
+permalink: /resume/
 ---
 
 ## Andrew Greenwood
