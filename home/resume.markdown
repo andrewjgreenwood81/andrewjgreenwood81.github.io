@@ -1,7 +1,7 @@
 ---
 layout: page
 title: resume
-permalink: /home/resume/
+permalink: /resume/
 ---
 
 ## Andrew Greenwood
