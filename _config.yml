@@ -1,0 +1,28 @@
+title: "Andrew Greenwood Portfolio"
+author: "Andrew Greenwood"
+description: "WIP
+permalink: /:title/
+lang: "en"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # hide the box-shadow from header and footer
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
+  - {file: "portfolio.html"}
+  - {file: "resume.html"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:andrewjgreenwood@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/andrewjgreenwood"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/agreenwoodgamedev/"}
+
+plugins:
+ - jekyll-feed
