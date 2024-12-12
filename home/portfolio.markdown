@@ -1,7 +1,7 @@
 ---
 layout: page
 title: portfolio
-permalink: /portfolio/
+permalink: /home/portfolio/
 ---
 
 ![Warzone 2](/home/assets/images/warzone2.png){:width="75%"}
